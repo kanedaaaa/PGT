@@ -9,6 +9,8 @@ const app = async () => {
     const app = express()
     server.applyMiddleware({ app })
 
+    console.log("works")
+
     app.listen({ port: 4000 }, () =>
     console.log(`🚀 Server ready at http://localhost:4000${server.graphqlPath}`)
     )

@@ -1,4 +1,4 @@
-export const TXNS = [
+[
     {
         "transactionHash": "0x9600115a07f6e9dbfd418a74844a533e0b8d193b5a90b9a41d5f16204ea6f331",
         "blockNumber": 513503,
