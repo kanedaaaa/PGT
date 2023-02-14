@@ -1,3 +1,4 @@
+// @ts-ignore
 import { gql } from "apollo-server-express"
 import { TXNS } from "./data"
 
